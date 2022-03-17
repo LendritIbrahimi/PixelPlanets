@@ -26,7 +26,7 @@ Follow the instructions below to start contributing:
 
 1. [Make sure you meet the requirements](#requirements)
 2. Download the source code
-3. Open the project in Unity and enjoy!
+3. Open the project in Unity and enjoy
 
 ### Requirements
 
