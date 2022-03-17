@@ -1,6 +1,6 @@
 # PixelPlanets &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LendritIbrahimi/PixelPlanets/blob/main/LICENSE) &middot; [![Download](https://img.shields.io/badge/DOWNLOAD-darkgreen)](https://github.com/LendritIbrahimi/PixelPlanets/releases)
 
-PixelPlanets is an Unity app that procedurally generates 2D pixel-art planets.
+PixelPlanets is an Unity app that procedurally generates pixel-art planets using perlin noise and some math.
 
 
 ## Download
