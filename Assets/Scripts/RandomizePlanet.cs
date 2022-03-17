@@ -41,7 +41,7 @@ public class RandomizePlanet : MonoBehaviour
     }
     public void RandomizeSize()
     {
-        transform.localScale = Vector3.one * Random.Range(1.5f, 5f);
+        transform.localScale = Vector3.one * Random.Range(1.5f, 4f);
     }
 
 
