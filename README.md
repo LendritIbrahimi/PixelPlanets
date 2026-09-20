@@ -9,11 +9,11 @@ You can download PixelPlanets from the [releases](https://github.com/LendritIbra
 
 
 ## Screenshots
+<img width="1255" height="543" alt="image" src="https://github.com/user-attachments/assets/bc57a1cf-cc36-401f-88ae-539adcb3cf2a" />
+<img width="1497" height="535" alt="image" src="https://github.com/user-attachments/assets/7795b084-cc82-4c6f-9504-507b265efd38" />
+<img width="1509" height="553" alt="image" src="https://github.com/user-attachments/assets/4cb99c06-9eca-46f2-b827-eb8420575228" />
+<img width="1285" height="543" alt="image" src="https://github.com/user-attachments/assets/b3fb6ba4-e112-454f-9821-a1cabc8a9bbb" />
 
-![Planet1](https://drive.google.com/uc?export=view&id=1lAOW_qH2aGMRmgyuZUwbBeaQw2soj79P)
-![Planet4](https://drive.google.com/uc?export=view&id=1cKV0GxTR4LdRakmW6cBJr1kqtj4PYRd5)
-![Planet2](https://drive.google.com/uc?export=view&id=1YvIOYhgwXr-3ZB_FE_VgNc4X6AtuglW1)
-![Planet3](https://drive.google.com/uc?export=view&id=1-4HEg_YmpH8WgQwgaXmVQPyhenbXmyur)
 
 
 ## Contributing
